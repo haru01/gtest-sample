@@ -27,3 +27,6 @@ file save -> auto test
 
 - https://github.com/guard/guard/
 - https://github.com/guard/guard-shell
+
+- http://opencv.jp/googletestdocs/primer.html
+- http://opencv.jp/googletestdocs/samples.html#samples
