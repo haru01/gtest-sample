@@ -1,4 +1,3 @@
-// ex. #include "BBB.h"
 #include <gtest/gtest.h>
 #include <stack>
 #include <iostream>
