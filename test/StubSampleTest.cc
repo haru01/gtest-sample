@@ -26,8 +26,10 @@ public:
 
   bool acceptRequest(int code) {
     if (checker->hasExpired()) {
+      // ...何か処理
       return false;
     } else {
+      // ... 何か処理
       return true;
     }
   }
